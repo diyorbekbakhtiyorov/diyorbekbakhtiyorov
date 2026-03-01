@@ -1,6 +1,8 @@
 <div>
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Assalom%20Aleykum&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
+
+
 # 💫 About Me:
 <br>19 y.o<br>Uzbekistan<br>Front End developer
 
