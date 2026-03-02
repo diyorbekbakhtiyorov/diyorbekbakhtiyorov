@@ -18,7 +18,7 @@
   <a href="https://t.me/diyorbekbakhtiyorov" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="https://+998917737573" target="_blank">
+  <a href="tel:+998917737573">
     <img src="https://images.icon-icons.com/70/PNG/512/phone_14179.png" width="40" height="40" alt="Phone"  />
   </a>
   <a href="mailto:diyoroff77@gmail.com" target="_blank">
